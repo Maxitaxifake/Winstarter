@@ -22,3 +22,15 @@ Perfect for fresh installs, tinkerers, or anyone who likes to automate their set
 Found a bug? Got an idea? Let me know!
 
 Im sorry but many things are not working wait for 1.00
+
+## Requirements
+
+- Windows 10 or 11
+- Administrator rights
+- Internet connection
+
+#  How to use
+
+1. Right-click `Winstarter.bat`
+2. Select **Run as administrator**
+3. Follow the instructions in the terminal menu
