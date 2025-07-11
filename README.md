@@ -1,4 +1,4 @@
-Winstarter
+#Winstarter
 A lightweight setup and tweak tool for Windows
 
 Winstarter is a simple Batch-based tool that helps you quickly install apps, tweak system settings, and optimize Windows.
