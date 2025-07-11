@@ -25,7 +25,7 @@ echo -----------------------------------------
 echo Winstarter by Maxitaxifake
 echo License: MIT License
 echo.
-echo Copyright (c) 2025 Maxitaxi
+echo Copyright (c) 2025 Maxitaxifake
 echo.
 echo Permission is hereby granted, free of charge, to any person obtaining a copy
 echo of this software and associated documentation files (the "Software"), to deal
