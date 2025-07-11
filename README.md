@@ -20,3 +20,4 @@ Perfect for fresh installs, tinkerers, or anyone who likes to automate their set
 
 Found a bug? Got an idea? Let me know!
 
+Im sorry but many things are not working wait for 1.00
