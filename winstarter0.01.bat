@@ -22,7 +22,7 @@ if defined regval (
 title Winstarter Installation
 cls
 echo -----------------------------------------
-echo Winstarter by Maxitaxi
+echo Winstarter by Maxitaxifake
 echo License: MIT License
 echo.
 echo Copyright (c) 2025 Maxitaxi
@@ -99,7 +99,7 @@ goto menu
 
 :License
 echo -----------------------------------------
-echo Winstarter by Maxitaxi
+echo Winstarter by Maxitaxifake
 echo License: MIT License
 echo.
 echo Copyright (c) 2025 Maxitaxi
